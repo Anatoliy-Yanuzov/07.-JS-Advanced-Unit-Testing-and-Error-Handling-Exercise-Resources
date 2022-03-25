@@ -1,4 +1,4 @@
-const assert = require('chai').assert; const assert = require('chai').assert;
+const assert = require('chai').assert;
 const lookupChar = require('./03.char-lookup');
 
 describe('Test function extract character from given index', () => {
